@@ -1,6 +1,6 @@
 package spring.sfgpetclinic.model;
 
-public class Person {
+public class Person extends BaseEntity {
     private String firsName;
 
     public String getFirsName() {
