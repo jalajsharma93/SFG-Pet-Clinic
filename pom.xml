@@ -49,8 +49,8 @@
         </plugins>
     </build>
     <scm>
-        <developerConnection>scmvn cleanm:git:git@github.com/jalajsharma93/SFG-Pet-Clinic.git</developerConnection>
-      <tag>sfg-pet-clinic-0.0.3</tag>
+        <developerConnection>scm:git:git@github.com/jalajsharma93/SFG-Pet-Clinic.git</developerConnection>
+      <tag>HEAD</tag>
   </scm>
 
 </project>
