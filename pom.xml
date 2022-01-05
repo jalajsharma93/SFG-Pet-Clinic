@@ -9,7 +9,7 @@
 
     <groupId>spring</groupId>
     <artifactId>sfg-pet-clinic</artifactId>
-    <version>0.0.2</version>
+    <version>0.0.2-SNAPSHOT</version>
     <name>sfg-pet-clinic</name>
     <description>sfg-pet-clinic</description>
 
@@ -49,9 +49,7 @@
         </plugins>
     </build>
     <scm>
-        <connection>scm:svn:https://github.com/jalajsharma93/SFG-Pet-Clinic.git</connection>
-        <developerConnection>scm:svn:https://github.com/jalajsharma93/SFG-Pet-Clinic.git</developerConnection>
-        <url>https://github.com/jalajsharma93/SFG-Pet-Clinic.git</url>
+        <developerConnection>scm:git:git@github.com/jalajsharma93/SFG-Pet-Clinic.git</developerConnection>
       <tag>HEAD</tag>
   </scm>
 
