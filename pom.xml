@@ -49,7 +49,9 @@
         </plugins>
     </build>
     <scm>
-        <developerConnection>scm:git:https://github.com/jalajsharma93/SFG-Pet-Clinic.git</developerConnection>
+        <connection>scm:svn:https://github.com/jalajsharma93/SFG-Pet-Clinic.git</connection>
+        <developerConnection>scm:svn:https://github.com/jalajsharma93/SFG-Pet-Clinic.git</developerConnection>
+        <url>https://github.com/jalajsharma93/SFG-Pet-Clinic.git</url>
       <tag>HEAD</tag>
   </scm>
 
