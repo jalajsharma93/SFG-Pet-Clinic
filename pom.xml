@@ -49,7 +49,7 @@
         </plugins>
     </build>
     <scm>
-        <developerConnection>scm:git:git@github.com/jalajsharma93/SFG-Pet-Clinic.git</developerConnection>
+        <developerConnection>scm:git:https://github.com/jalajsharma93/SFG-Pet-Clinic.git</developerConnection>
       <tag>HEAD</tag>
   </scm>
 
