@@ -1,6 +1,5 @@
 package spring.sfgpetclinic.services.map;
 
-import com.amazonaws.services.dynamodbv2.xspec.L;
 import spring.sfgpetclinic.model.Pet;
 import spring.sfgpetclinic.services.CurdService;
 
