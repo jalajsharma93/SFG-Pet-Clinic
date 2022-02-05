@@ -2,6 +2,7 @@ package spring.sfgpetclinic.model;
 
 public class Person extends BaseEntity {
     private String firsName;
+    private String lastName;
 
     public String getFirsName() {
         return firsName;
@@ -19,5 +20,5 @@ public class Person extends BaseEntity {
         this.lastName = lastName;
     }
 
-    private String lastName;
+
 }

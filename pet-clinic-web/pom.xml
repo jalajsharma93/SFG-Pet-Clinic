@@ -3,7 +3,7 @@
     <parent>
         <artifactId>sfg-pet-clinic</artifactId>
         <groupId>spring</groupId>
-        <version>0.0.6-SNAPSHOT</version>
+        <version>0.0.5-SNAPSHOT</version>
     </parent>
 
     <modelVersion>4.0.0</modelVersion>
@@ -14,7 +14,7 @@
         <dependency>
             <artifactId>pet-clinic-data</artifactId>
             <groupId>spring</groupId>
-            <version>0.0.6-SNAPSHOT</version>
+            <version>0.0.5-SNAPSHOT</version>
         </dependency>
 
         <dependency>
@@ -41,6 +41,18 @@
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-test</artifactId>
             <scope>test</scope>
+        </dependency>
+        <dependency>
+            <groupId>com.kakawait</groupId>
+            <artifactId>picocli-spring-boot-starter</artifactId>
+            <version>0.2.0</version>
+            <scope>compile</scope>
+        </dependency>
+        <dependency>
+            <groupId>com.kakawait</groupId>
+            <artifactId>picocli-spring-boot-autoconfigure</artifactId>
+            <version>0.2.0</version>
+            <scope>compile</scope>
         </dependency>
     </dependencies>
 
