@@ -2,7 +2,6 @@ package spring.sfgpetclinic.services.map;
 
 import org.springframework.stereotype.Service;
 import spring.sfgpetclinic.model.Owner;
-import spring.sfgpetclinic.services.CurdService;
 import spring.sfgpetclinic.services.OwnerService;
 
 import java.util.Set;
